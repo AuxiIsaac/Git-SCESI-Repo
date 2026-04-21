@@ -15,5 +15,6 @@ Es un sistema de control de versiones.
 sudo apt install git
 ```
 
+## Clase 2
 
 
