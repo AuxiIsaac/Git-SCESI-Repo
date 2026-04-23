@@ -20,3 +20,4 @@ sudo apt install git
 - Banana
 - Manzana
 - Fresa
+- Pera
