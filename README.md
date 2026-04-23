@@ -17,7 +17,7 @@ sudo apt install git
 
 ## Clase 2
 
-- Banana
+- Banana v2
 - Manzana
 - Fresa
 - Pera
