@@ -19,5 +19,5 @@ sudo apt install git
 
 - Banana v2
 - Manzana v2
-- Fresa
+- Fresa v2
 - Pera
