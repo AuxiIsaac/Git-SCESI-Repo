@@ -21,3 +21,8 @@ sudo apt install git
 - Manzana v2
 - Fresa v2
 - Pera
+
+## Funciones disponibles
+- suma
+- multiplicaion
+- division
