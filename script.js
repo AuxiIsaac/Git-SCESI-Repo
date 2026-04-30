@@ -7,3 +7,7 @@ function sumar(a, b){
 function multiplicar(a, b){
 	console.log(a * b)
 }
+
+function division(a, b){
+	console.log(a / b);
+}
